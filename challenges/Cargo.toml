@@ -8,4 +8,4 @@ version = "0.1.0"
 
 [[bin]]
 name = "day-1-challenge-1"
-path = "src/day-1-challenge-1/main.rs"
+path = "src/day-1/main.rs"
